@@ -24,9 +24,9 @@ The model is trained on the Anime Ratings Dataset from Kaggle, containing user-i
 
 ## Performance Metrics
 The system is evaluated using standard metrics like:
-> Precision@k
-> Mean Average Precision (MAP)
-> Normalized Discounted Cumulative Gain (NDCG)
+- Precision@k
+- Mean Average Precision (MAP)
+- Normalized Discounted Cumulative Gain (NDCG)
 
 These metrics highlight the model's trade-offs between speed and precision, providing insights for both seen and unseen user scenarios.
 
