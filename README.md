@@ -38,6 +38,6 @@ Solutions for cold-start scenarios offer meaningful recommendations based on ite
 This project was developed by :
 - Marcel Fernández Serrano 
 - Alejandro Pastor Rubio
-- Xuezheng Zhang.
--
-- Each contributor brought their expertise to the project, focusing on optimizing the recommendation system for scalability and accuracy.
+- Xuezheng Zhang
+
+Each contributor brought their expertise to the project, focusing on optimizing the recommendation system for scalability and accuracy.
