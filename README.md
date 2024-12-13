@@ -1,3 +1,8 @@
+## Authors:
+- Marcel Fernández, [[Marcel_fedz]](https://github.com/u198734)
+- Alejandro Pastor, [[Alejandro_Past]](https://github.com/u199327)
+- Xuezheng Zhang, [[Zhang]](https://github.com/Xuezheng-Zhang)
+
 # Two Towers Recommendation System
 This repository contains the implementation of the Two Towers Recommendation System, a dual-tower model designed to provide scalable and efficient recommendations. The system uses two distinct recommendation approaches, weighted average and clustering-based methods, to optimize the trade-off between computational efficiency and recommendation accuracy.
 
