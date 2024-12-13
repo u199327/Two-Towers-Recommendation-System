@@ -40,9 +40,4 @@ Clustering-based methods improve computational efficiency significantly by reduc
 Weighted average methods excel in flexibility, especially for dynamic datasets.
 Solutions for cold-start scenarios offer meaningful recommendations based on item popularity and embedding similarities.
 
-This project was developed by :
-- Marcel Fernández Serrano 
-- Alejandro Pastor Rubio
-- Xuezheng Zhang
-
 Each contributor brought their expertise to the project, focusing on optimizing the recommendation system for scalability and accuracy.
